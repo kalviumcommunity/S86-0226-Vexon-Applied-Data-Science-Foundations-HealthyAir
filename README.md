@@ -28,68 +28,119 @@ HealthyAir uses data science techniques to:
 
 ---
 
-## 🧠 Learning Milestone: Data Science Lifecycle  
+## 🧠 Learning Milestone 1: Data Science Lifecycle (Question → Data → Insight)
 
-This project follows a structured **Data Science Lifecycle** approach. Before building models, we focus on understanding the problem, the data, and how insights are generated.
+This project follows a structured **Data Science Lifecycle** approach before building models.
 
-### ✅ 1. From Curiosity to a Clear Question  
-Every data science project begins with a clear and meaningful question.
+### 1️⃣ From Curiosity to a Clear Question  
+A strong project begins with a meaningful question.
 
 **Key Question:**  
 How can we identify pollution hotspots, long-term trends, and high-risk periods using historical air quality data?
 
-This ensures that analysis is aligned with real-world public health decisions.
-
 ---
 
-### ✅ 2. Understanding Data as Evidence  
-Data is treated as evidence, not absolute truth. Air quality data may contain:
+### 2️⃣ Understanding Data as Evidence  
+Air quality data may contain:
 - Missing values  
 - Sensor errors  
 - Inconsistencies  
 - Bias due to monitoring systems  
 
-This phase includes:
-- Understanding the data source  
-- Interpreting features such as AQI and PM levels  
-- Evaluating reliability  
-- Checking if the data answers the problem  
+We focus on understanding the dataset before using it.
 
 ---
 
-### ✅ 3. Exploratory Data Analysis (EDA)  
-Before prediction, the dataset is explored to understand trends.
-
-Activities include:
-- Checking distributions  
-- Identifying outliers  
-- Comparing locations  
-- Observing seasonal patterns  
-
-The goal is observation without premature conclusions.
+### 3️⃣ Exploratory Data Analysis  
+We explore patterns, trends, and anomalies to understand pollution behavior.
 
 ---
 
-### ✅ 4. Turning Observations into Insights  
-Observations become insights only when they connect to real-world impact.
-
-Example:
-- Observation: Certain cities show higher PM2.5 levels.  
-- Insight: These areas may have higher health risks and require awareness.
-
-Focus areas:
-- Clear explanation  
-- Health-focused insights  
-- Avoiding over-interpretation  
-- Acknowledging uncertainty  
+### 4️⃣ Turning Observations into Insights  
+Insights help decision-making by connecting data patterns to health and environmental impact.
 
 ---
 
-### ✅ 5. Why This Matters  
-This lifecycle ensures:
-- The dataset supports the question  
-- The analysis is meaningful  
-- The model and dashboard serve real users  
+### 5️⃣ Importance  
+This lifecycle ensures alignment between the problem, data, and solution.
+
+---
+
+## 🧠 Learning Milestone 2: Reading & Interpreting a Data Science Repository  
+
+Before contributing to a project, it is important to understand how the repository is structured and how different parts of the workflow connect.
+
+This milestone helps in developing the ability to read a repository with intention and clarity.
+
+---
+
+### ✅ 1. A Repository Is a Story  
+A data science repository is not just a collection of files. It represents the journey from problem to insight.
+
+While reviewing repositories, we focus on:
+- Understanding the problem  
+- Identifying the approach  
+- Recognizing completed and pending work  
+- Understanding assumptions and decisions  
+
+---
+
+### ✅ 2. Understanding the README  
+The README acts as the entry point and guide to the project.
+
+We evaluate:
+- Clarity of the problem statement  
+- Dataset sources and description  
+- Workflow and methodology  
+- Key results and insights  
+- Instructions for usage  
+
+We also identify missing or unclear documentation.
+
+---
+
+### ✅ 3. Folder Structure Interpretation  
+Common folders in data science projects include:
+
+- `data/` → Raw and processed datasets  
+- `notebooks/` → Exploration and analysis  
+- `src/` or `scripts/` → Reusable code  
+- `models/` → Saved models  
+- `reports/` or `figures/` → Visual outputs  
+
+This helps us:
+- Understand each stage of the lifecycle  
+- Distinguish between experimentation and production work  
+- Identify where contributions should be made  
+
+---
+
+### ✅ 4. Reading Notebooks with Purpose  
+Instead of focusing on every line of code, we:
+- Understand the goal of each notebook  
+- Identify data loading and preprocessing steps  
+- Recognize exploratory vs final analysis  
+- Follow the reasoning and workflow  
+
+---
+
+### ✅ 5. Identifying Assumptions & Limitations  
+We critically evaluate:
+- Data assumptions  
+- Bias and missing data  
+- Unanswered questions  
+- Areas for improvement  
+
+This encourages critical thinking and better collaboration.
+
+---
+
+### ✅ 6. Contribution Readiness  
+This milestone prepares us to:
+- Contribute without disrupting workflows  
+- Extend analysis rather than duplicate work  
+- Improve documentation  
+- Ask meaningful questions during reviews  
 
 ---
 
