@@ -235,6 +235,27 @@ HealthyAir helps citizens understand air pollution risks and make informed healt
 
 ---
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 📌 Future Scope  
 - Real-time monitoring  
 - Personalized alerts  
