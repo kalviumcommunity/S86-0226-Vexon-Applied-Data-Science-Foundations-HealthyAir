@@ -1,0 +1,1 @@
+This folder contains original, untouched data files. Do not modify or overwrite any files here. Treat as read-only.

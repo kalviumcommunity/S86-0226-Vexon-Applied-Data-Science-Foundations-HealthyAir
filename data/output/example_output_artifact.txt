@@ -1,0 +1,9 @@
+# Example Output Artifact
+
+This is a placeholder file to demonstrate where final results (plots, reports, tables, models) should be stored. Replace with your actual output files.
+
+Example: air_quality_plot.png
+
+---
+
+Outputs should be clearly named and never mixed with input data.
