@@ -1,0 +1,9 @@
+# Example Raw Data
+
+This is a placeholder file to demonstrate where original, untouched data should be stored. Replace with your actual raw data files (e.g., CSV, Excel, JSON) as received from source.
+
+Example: air_quality_raw.csv
+
+---
+
+Do not modify or overwrite files in this folder.
