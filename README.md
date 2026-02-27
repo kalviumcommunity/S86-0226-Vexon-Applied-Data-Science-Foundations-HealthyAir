@@ -230,10 +230,7 @@ Sources include government and environmental agencies.
 
 ---
 
-## 🌍 Impact  
-HealthyAir helps citizens understand air pollution risks and make informed health decisions. It improves awareness and supports better environmental and policy decisions.
 
----
 
 
 
