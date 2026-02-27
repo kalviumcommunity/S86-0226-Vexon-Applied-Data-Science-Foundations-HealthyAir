@@ -1,0 +1,1 @@
+This folder contains output artifacts such as plots, reports, tables, or models generated from processed data. Outputs should be clearly named and never mixed with input data.

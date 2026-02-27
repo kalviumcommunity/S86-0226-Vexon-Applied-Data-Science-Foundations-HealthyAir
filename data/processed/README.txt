@@ -1,0 +1,1 @@
+This folder contains datasets that have been cleaned, transformed, or processed from raw data. Each file should be named to indicate its processing stage.

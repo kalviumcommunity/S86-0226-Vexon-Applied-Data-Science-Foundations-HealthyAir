@@ -1,0 +1,9 @@
+# Example Processed Data
+
+This is a placeholder file to demonstrate where cleaned or transformed datasets should be stored. Replace with your actual processed data files (e.g., CSV, Excel, JSON) generated from raw data.
+
+Example: air_quality_cleaned.csv
+
+---
+
+Processed data files should be named to indicate their processing stage.
