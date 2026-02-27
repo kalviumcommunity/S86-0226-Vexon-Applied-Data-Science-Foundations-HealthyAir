@@ -92,11 +92,3 @@ Kernel control is essential for professional data science work.
 
 ---
 
-### 📌 Key Takeaways  
-
-After completing this milestone, we are able to:
-- Identify kernel states such as running, idle, and stuck  
-- Restart kernels intentionally  
-- Interrupt long-running operations  
-- Maintain a clean notebook environment  
-- Ensure reliable and reproducible workflows   
