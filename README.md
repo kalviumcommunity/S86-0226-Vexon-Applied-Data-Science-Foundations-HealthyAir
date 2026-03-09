@@ -96,5 +96,28 @@ After completing this milestone, we are able to:
 - Maintain a clean notebook environment  
 - Ensure reliable and reproducible workflows   
 
+---
 
------
+## DataFrame Inspection & Shape/Type Milestone Notebooks
+
+### How to Use
+1. Open the following notebooks in VS Code or Jupyter:
+   - `../HealthyAir/Inspecting_DataFrames_Inspection_Milestone.ipynb`
+   - `../HealthyAir/Understanding_DataFrame_Shapes_and_Types.ipynb`
+2. Run all cells in order. Read the markdown explanations and observe the code outputs.
+3. For each notebook:
+   - Review the code and explanations for inspecting DataFrame structure, types, and potential issues.
+   - Use the code as a template for your own data analysis projects.
+
+### Submission Guidelines
+- Ensure all cells are executed and outputs are visible.
+- Record a short screen-capture video (about 2 minutes) demonstrating:
+  - Inspecting DataFrame shape and types
+  - Explaining rows, columns, and why types matter
+  - Using `.shape`, `.dtypes`, and `.info()`
+- Submit the video link and the completed notebooks as instructed by your course.
+
+### Tips
+- Always check DataFrame shape and types before analysis.
+- Never assume column types—inspect them!
+- Use these notebooks as a reference for future data science work.
