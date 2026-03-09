@@ -89,4 +89,12 @@ Collections are foundational tools for all Python programming.
 - **Collections_Milestone.ipynb**: Complete notebook with all examples and demonstrations
 - **README.md**: This documentation file
 
----
+After completing this milestone, we are able to:
+- Identify kernel states such as running, idle, and stuck  
+- Restart kernels intentionally  
+- Interrupt long-running operations  
+- Maintain a clean notebook environment  
+- Ensure reliable and reproducible workflows   
+
+
+-----
