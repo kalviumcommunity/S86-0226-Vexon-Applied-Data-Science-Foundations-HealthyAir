@@ -121,3 +121,5 @@ After completing this milestone, we are able to:
 - Always check DataFrame shape and types before analysis.
 - Never assume column types—inspect them!
 - Use these notebooks as a reference for future data science work.
+
+---
