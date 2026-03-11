@@ -1,0 +1,14 @@
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data and model artifacts (keep large files out of git)
+data/
+models/
+outputs/
+
+# VSCode
+.vscode/
