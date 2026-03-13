@@ -86,25 +86,37 @@ Collections are foundational tools for all Python programming.
 
 ### 📁 Assignment Files
 
-- **Collections_Milestone.ipynb**: Complete notebook with all examples and demonstrations
-- **README.md**: This documentation file
 
 After completing this milestone, we are able to:
-- Identify kernel states such as running, idle, and stuck  
-- Restart kernels intentionally  
-- Interrupt long-running operations  
-- Maintain a clean notebook environment  
-- Ensure reliable and reproducible workflows   
+
+
+## 📊 Final Project Insights, Assumptions, and Limitations
+
+### 🔍 Project Insights
+- Standardizing column names and data formats made the dataset easier to analyze and merge.
+- Summary statistics revealed key patterns, such as the central tendency and spread of numeric columns.
+- Comparing distributions across columns highlighted which variables had higher variability or unusual ranges.
+- Visualizations (histograms, boxplots, line plots, scatter plots) made trends, relationships, and outliers clear.
+- Outlier detection helped identify data points that may require further investigation or special handling.
+
+### 📝 Assumptions
+- The raw data provided is generally accurate and representative of the real-world scenario.
+- Missing values were assumed to be either ignorable or handled by standard imputation/removal methods.
+- Numeric columns are assumed to be measured on consistent scales and units.
+- Date/time columns are assumed to be correctly formatted after preprocessing.
+- Outliers detected are not always errors; some may be valid extreme observations.
+
+### ⚠️ Limitations
+- The dataset may have unobserved biases or errors not detected during EDA.
+- Some columns may have limited data or missing values, affecting the reliability of certain analyses.
+- Visualizations and summary statistics do not capture all possible data issues (e.g., hidden correlations, data entry errors).
+- Outlier detection is based on simple rules (IQR, visual inspection) and may not identify all types of anomalies.
+- No advanced modeling or domain-specific validation was performed; results should be interpreted as exploratory.
 
 ---
-
 ## DataFrame Inspection & Shape/Type Milestone Notebooks
 
-### How to Use
-1. Open the following notebooks in VS Code or Jupyter:
-   - `../HealthyAir/Inspecting_DataFrames_Inspection_Milestone.ipynb`
    - `../HealthyAir/Understanding_DataFrame_Shapes_and_Types.ipynb`
-2. Run all cells in order. Read the markdown explanations and observe the code outputs.
 3. For each notebook:
    - Review the code and explanations for inspecting DataFrame structure, types, and potential issues.
    - Use the code as a template for your own data analysis projects.
